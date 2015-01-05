@@ -115,8 +115,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:016766_0000_0F9DEF6AB9292208"/>
-            <pb facs="tcp:016766_0001_0F9DEF6B740F3D70" rendition="simple:additions"/>
+            <pb facs="unknown:016766_0000_0F9DEF6AB9292208"/>
+            <pb facs="unknown:016766_0001_0F9DEF6B740F3D70"
+                rendition="simple:additions"/>
             <p>AMERICA: OR, A POEM ON THE SETTLEMENT OF THE BRITISH COLONIES; ADDRESSED To the Friends of Freedom, and their Country.</p>
             <p>By a <hi>GENTLEMAN</hi> educated at Yale-College.</p>
             <p>NEW-HAVEN: Printed by THOMAS and SAMUEL GREEN.</p>
@@ -124,7 +125,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:016766_0002_0F9DEF6C42EF57C0"/>
+            <pb facs="unknown:016766_0002_0F9DEF6C42EF57C0"/>
             <head>A POEM.</head>
             <l>FROM ſylvan ſhades, <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -190,7 +191,7 @@
                   <desc>〈◊〉</desc>
                </gap> of the ſilent tomb.</l>
             <l>
-               <pb n="4" facs="tcp:016766_0003_0F9DEF6CED67C398"/>Thus waſting Diſcord, like an angry ſea,</l>
+               <pb n="4" facs="unknown:016766_0003_0F9DEF6CED67C398"/>Thus waſting Diſcord, like an angry ſea,</l>
             <l>Swept mighty kings and warring worlds away,</l>
             <l>And (ages paſt) ſucceeding times beheld</l>
             <l>The ſame dire ruin clothe the dreary field.</l>
@@ -252,7 +253,7 @@
                </gap>s,</l>
             <l>And War fierce-threat'ning from ſurrounding foes.</l>
             <l>
-               <pb n="5" facs="tcp:016766_0004_0F9DEF6FD490F038"/>Yet here Contentment dwelt, and Pleaſure ſmil'd.</l>
+               <pb n="5" facs="unknown:016766_0004_0F9DEF6FD490F038"/>Yet here Contentment dwelt, and Pleaſure ſmil'd.</l>
             <l>And rough-brow'd Labour every care beguil'd,</l>
             <l>Made fruitful garden<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -305,7 +306,7 @@
                   <desc>•</desc>
                </gap>nder ſhakes the darkſome green;</l>
             <l>
-               <pb n="6" facs="tcp:016766_0005_0F9DEF70CE255E50"/>Broad ſtreams of fire from falling ſtructures riſe,</l>
+               <pb n="6" facs="unknown:016766_0005_0F9DEF70CE255E50"/>Broad ſtreams of fire from falling ſtructures riſe,</l>
             <l>And ſhrieks and groans and ſhouts in<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ade the ſkies:</l>
@@ -353,7 +354,7 @@
             <l>And burſting cannon ſet the fields on fire;</l>
             <l>
                <pb n="7"
-                   facs="tcp:016766_0006_0F9DEF71D5CA7208"
+                   facs="unknown:016766_0006_0F9DEF71D5CA7208"
                    rendition="simple:additions"/>Fate ſwells the ſound; whole trod<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -452,7 +453,7 @@
                   <desc>••</desc>
                </gap>ts the burning ray.</l>
             <l>
-               <pb n="8" facs="tcp:016766_0007_0F9DEF7232BD9020"/>Thou bid'ſt yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="8" facs="unknown:016766_0007_0F9DEF7232BD9020"/>Thou bid'ſt yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> 
                <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -541,7 +542,7 @@
                   <desc>••</desc>
                </gap>.</l>
             <l>
-               <pb n="9" facs="tcp:016766_0008_0F9DEF72F24917B8"/>Where once dark Superſtition fix'd her throne;</l>
+               <pb n="9" facs="unknown:016766_0008_0F9DEF72F24917B8"/>Where once dark Superſtition fix'd her throne;</l>
             <l>Where ſoul-exalting ſcience never ſhone;</l>
             <l>Where every ſocial joy was drown'd in bloo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -591,7 +592,7 @@
             <l>An awful form advanc'd along the ground,</l>
             <l>And circling glories caſt a radiance round:</l>
             <l>
-               <pb n="10" facs="tcp:016766_0009_0F9DEF73B1564B78"/>Her face divine with ſparkling brightneſs ſhone</l>
+               <pb n="10" facs="unknown:016766_0009_0F9DEF73B1564B78"/>Her face divine with ſparkling brightneſs ſhone</l>
             <l>Like the clear ſplendour of the mid-day ſun;</l>
             <l>Robes o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -642,7 +643,7 @@
             <l>"See Hiſt'ry all the ſcenes of time unveil</l>
             <l>And bid my ſons attend her wondrous tale!</l>
             <l>
-               <pb n="11" facs="tcp:016766_0010_0F9E700A198CE8A8"/>Led by her voice, behold them mount the throne</l>
+               <pb n="11" facs="unknown:016766_0010_0F9E700A198CE8A8"/>Led by her voice, behold them mount the throne</l>
             <l>And ſtretch their ſway to regions yet unknown!"</l>
             <l>"See all the powers of Poetry unite</l>
             <l>To paint Religion's charms divinely bright;</l>
@@ -682,7 +683,7 @@
             <l>Bright ſilks be wrought, and ſparkling diamonds glow;</l>
             <l>
                <pb n="12"
-                   facs="tcp:016766_0011_0F9E700B8B46A860"
+                   facs="unknown:016766_0011_0F9E700B8B46A860"
                    rendition="simple:additions"/>Earth's richeſt realms their treaſures ſhall unfold,</l>
             <l>And op'ning mountains yield the flaming gold;</l>
             <l>Round thy broad fields more glorious ROMES ariſe,</l>
